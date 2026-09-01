@@ -1,0 +1,35 @@
+{
+"Copyright":" ****** HSPICE -- P-2019.06-SP1-1 win64 (Sep 27 2019) ******  Copyright (c) 1986 - 2026 by Synopsys, Inc. All Rights Reserved.  This software and the associated documentation are proprietary  to Synopsys, Inc. This software may only be used in accordance  with the terms and conditions of a written license agreement with  Synopsys, Inc. All other use, reproduction, or distribution of  this software is strictly prohibited.",
+"Comment" : "File format and content subject to change.",
+"Measure_File":"D:\faezeh\6\VLSI\CA\CA3/D:\faezeh\6\VLSI\CA\CA3\monte_carlo_sim.mt0",
+"Histogram_File":"D:\faezeh\6\VLSI\CA\CA3/D:\faezeh\6\VLSI\CA\CA3\monte_carlo_sim.hmt0.csv",
+"QQ_plot_File":"D:\faezeh\6\VLSI\CA\CA3/D:\faezeh\6\VLSI\CA\CA3\monte_carlo_sim.qqt0.csv",
+"MPP_File":"D:\faezeh\6\VLSI\CA\CA3/D:\faezeh\6\VLSI\CA\CA3\monte_carlo_sim.mpp0",
+"Summary_Statistics":{
+"Total_Random_Variable":1,
+"Normal_Distribution_Variable":1,
+"Non_Normal_Distribution_Variable":0,
+"MC_Samples":100,
+"Meas_Failure_Number":0,
+"Job_Abortion_Number":0,
+"Sigma_Amplification_Factor":1,
+"Confidence_Level":0.95,
+"Measure_Names":["p_dyn","p_stat","p_total","tpd_cout","tpd_max","tpd_sum8"]
+  },
+"VB_options":{
+"Sampling_Method":"SRS",
+"Random_Generator":"MCG",
+"Normal_Limit":20
+  },
+"Percentiles":{
+"Auto_Percentiles":[0.01,0.05,0.25,0.5,0.75,0.95,0.99]
+  },
+"Measure_Statistics":{
+"p_dyn":{"Nominal":5.89695e-05,"Mean":5.92568e-05,"Stddev":8.51434e-07,"Skewness":2.54093,"Kurtosis":12.0799},
+"p_stat":{"Nominal":3.22647e-07,"Mean":3.34834e-07,"Stddev":8.43714e-08,"Skewness":0.385326,"Kurtosis":2.50641},
+"p_total":{"Nominal":5.92922e-05,"Mean":5.95916e-05,"Stddev":7.86845e-07,"Skewness":2.8209,"Kurtosis":13.9452},
+"tpd_cout":{"Nominal":1.41448e-10,"Mean":1.43616e-10,"Stddev":1.66273e-11,"Skewness":0.970497,"Kurtosis":4.29373},
+"tpd_max":{"Nominal":1.41448e-10,"Mean":1.43616e-10,"Stddev":1.66273e-11,"Skewness":0.970497,"Kurtosis":4.29373},
+"tpd_sum8":{"Nominal":1.10793e-10,"Mean":1.12637e-10,"Stddev":1.39968e-11,"Skewness":0.963864,"Kurtosis":4.24802}
+  }
+}

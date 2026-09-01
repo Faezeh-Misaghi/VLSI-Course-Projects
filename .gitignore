@@ -1,0 +1,14 @@
+*.ic*
+*.mt*
+*.pa*
+*.st*
+*.tr*
+*.lis
+*.err*
+*.csv
+*.log
+*.annotate
+*.mc*
+*.mpp*
+*.vec
+*.err0
