@@ -8,6 +8,7 @@ This repository contains a collection of four computer assignments completed for
 
 The repository is organized into four main directories, each containing the HSPICE source files (`src`) and a detailed engineering report (`report_en.pdf`).
 
+```text
 .
 ├── CA1
 │   ├── src/                 # HSPICE netlists for basic gates and 8-bit RCA
@@ -23,7 +24,7 @@ The repository is organized into four main directories, each containing the HSPI
 │   └── report_en.pdf        # Logic Gate Sizing, Flip-Flops, and Pipelining
 └── .gitignore
 
----
+```
 
 ## Project Abstracts
 
