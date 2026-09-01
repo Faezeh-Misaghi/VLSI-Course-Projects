@@ -1,4 +1,4 @@
-# VLSI Design Computer Assignments
+# VLSI Course Computer Assignments
 
 This repository contains a collection of four computer assignments completed for the **VLSI Design** course at the University of Tehran (Academic Year 2025-2026). The projects focus on the transistor-level design, simulation, and optimization of digital CMOS circuits using 90nm and 180nm technologies.
 
